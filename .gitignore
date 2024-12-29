@@ -1,0 +1,8 @@
+# Executables
+bin/main
+
+# Object files
+*.o
+
+# Executables
+*.exe
